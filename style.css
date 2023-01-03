@@ -8,7 +8,7 @@ body{
     font-family:Arial, Helvetica, sans-serif
 }
 
-li{
+.menu-bar{
     display: inline-block;
     float: left;
     padding-right: 16px;
@@ -23,4 +23,8 @@ ul{
 img{
     width: 300px;
     height: 175px;
+}
+
+a{
+    color: #E5E5E5;
 }
