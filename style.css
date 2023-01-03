@@ -1,6 +1,8 @@
 body{
     background-color: #373737;
     color: #E5E5E5;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif
 }
 
 .para{
@@ -18,6 +20,11 @@ body{
 ul{
     padding:0;
     margin: 0;
+}
+
+ol{
+    padding: 0;
+    margin: 16px;
 }
 
 img{
